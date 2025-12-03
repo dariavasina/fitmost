@@ -11,3 +11,7 @@ admin panel
 main page & search
 online courses & videos
 notifications
+cms ui
+calendar 
+location card
+Responsiveness & Accessibility
