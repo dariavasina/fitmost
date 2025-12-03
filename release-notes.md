@@ -11,6 +11,7 @@ admin panel
 main page & search
 online courses & videos
 notifications
+booking & payment ui
 cms ui
 calendar 
 location card
