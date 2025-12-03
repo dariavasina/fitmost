@@ -8,3 +8,4 @@ analytics
 content api
 studio api
 admin panel
+main page & search
