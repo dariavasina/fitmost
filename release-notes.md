@@ -3,6 +3,7 @@ backend auth
 user profile
 ci/cd
 backup & rollback
+ssl / cdn / caching
 notifications service
 analytics
 content api
