@@ -19,3 +19,4 @@ location card
 Responsiveness & Accessibility
 booking module
 payment module
+tests
