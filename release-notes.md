@@ -5,3 +5,5 @@ ci/cd
 backup & rollback
 notifications service
 analytics
+content api
+studio api
