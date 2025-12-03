@@ -11,3 +11,4 @@ admin panel
 main page & search
 online courses & videos
 notifications
+booking & payment ui
