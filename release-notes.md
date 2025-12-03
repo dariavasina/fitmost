@@ -9,3 +9,5 @@ content api
 studio api
 admin panel
 main page & search
+online courses & videos
+notifications
